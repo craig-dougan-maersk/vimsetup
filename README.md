@@ -7,5 +7,5 @@ Provides -
 - file manager to the left hand side (NERDTree)
 - Git integration using fugitive (provides commands like Gstatus, Gcommit etc)
 - gitgutter provides updates on git changes in left hand column of each window
-- keys rempped to allow navigation of windows via TAB+<arrow key>
-- Navigation of TABs via TAB+Shift+<arrow key>
+- keys rempped to allow navigation of windows via TAB+Arrow-Key
+- Navigation of TABs via TAB+Shift+Arrow-Key
